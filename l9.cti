@@ -1,0 +1,15 @@
+preklad hry Larry 9: Leisure Suit Larry - Wet Dreams Dry Twice
+--------------------------------------------------------------
+
+znak ^ zachovat, je nutný pro zpìtný import
+rovnìž nemìnit kódové oznaèení položky, 
+napø.1074082e-d43e-4868-8808-4ec008a8cf75
+
+textový øetìzec již pøeložit lze, ukládat jej prosím s kodováním UTF-8,
+je takto soubor pøednastaven
+
+prosím editovat nejlépe v nìjakém editoru, který zachovává
+krátké entery tj. 0a, pøi kopírování se vìtšinou pøemìní
+na 0d0a (pak se tyto entery špatnì opravují a hledají), 
+proto soubory editovat napø. v notepad++, který
+tyto krátké entery zachovává v textu...
